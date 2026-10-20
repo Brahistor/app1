@@ -21,21 +21,21 @@
       "sub12mSku": "com.stitch.ohanabackground"
     },
     "ads": {
-      "showAds": false,
+      "showAds": true,
       "clicksBeforeInterstitial": 3,
       "autoShowIntervalSeconds": 45,
       "banner": {
-        "enabled": false,
+        "enabled": true,
         "size": "BANNER",
         "position": "BOTTOM",
         "autoLoad": true
       },
       "levelplay": {
-        "enabled": false,
-        "appKey": "25898f09d",
-        "interstitialAdUnitId": "69bekc868i4qqj7w",
-        "rewardedAdUnitId": "slkvus5gn0aik4an",
-        "bannerAdUnitId": "fsnu8d83hapd9dh7",
+        "enabled": true,
+        "appKey": "28dc20085",
+        "interstitialAdUnitId": "z9ozqud8hfaiwjq2",
+        "rewardedAdUnitId": "idiw3jurypglkmwh",
+        "bannerAdUnitId": "qbysdnpymxwzb4a0",
         "interstitialPlacement": "Main_Menu",
         "rewardedPlacement": "Achievements",
         "bannerPlacement": "Home_Screen"
