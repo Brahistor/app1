@@ -21,17 +21,17 @@
       "sub12mSku": "com.stitch.ohanabackground"
     },
     "ads": {
-      "showAds": true,
+      "showAds": false,
       "clicksBeforeInterstitial": 3,
       "autoShowIntervalSeconds": 45,
       "banner": {
-        "enabled": true,
+        "enabled": false,
         "size": "BANNER",
         "position": "BOTTOM",
         "autoLoad": true
       },
       "levelplay": {
-        "enabled": true,
+        "enabled": false,
         "appKey": "28dc20085",
         "interstitialAdUnitId": "z9ozqud8hfaiwjq2",
         "rewardedAdUnitId": "idiw3jurypglkmwh",
