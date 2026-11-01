@@ -20,27 +20,21 @@
       "sub6mSku": "com.stitch.ohanabackground",
       "sub12mSku": "com.stitch.ohanabackground"
     },
-    "ads": {
-      "showAds": false,
-      "clicksBeforeInterstitial": 3,
-      "autoShowIntervalSeconds": 45,
-      "banner": {
-        "enabled": false,
-        "size": "BANNER",
-        "position": "BOTTOM",
-        "autoLoad": true
-      },
-      "levelplay": {
-        "enabled": false,
-        "appKey": "28dc20085",
-        "interstitialAdUnitId": "z9ozqud8hfaiwjq2",
-        "rewardedAdUnitId": "idiw3jurypglkmwh",
-        "bannerAdUnitId": "qbysdnpymxwzb4a0",
-        "interstitialPlacement": "Main_Menu",
-        "rewardedPlacement": "Achievements",
-        "bannerPlacement": "Home_Screen"
-      }
-    },
+   "ads": {
+  "showAds": true,
+  "appodealKey":"a5128b3c2809c1424311cd61b7c3e738c6ffa8c00d181224",
+  "clicksBeforeInterstitial": 3,
+  "autoShowIntervalSeconds": 45,
+  "banner": {
+    "enabled": true,
+    "size": "BANNER",
+    "position": "BOTTOM",
+    "autoLoad": true
+  },
+    "levelplay": {
+    "enabled": false
+  }
+},
     "trending": [
       "vid_0003",
       "Cute Blue Alien_img_001"
