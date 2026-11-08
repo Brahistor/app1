@@ -1,38 +1,68 @@
 {
-  "general": {
-    "remote_config_version": 4,
-    "app_name": "Cute Blue Alien Live Wallpapers & AI Filter",
-    "theme_color": "#F518A9",
-    "buttons": {
-      "rate_url": "https://www.amazon.com/dp/B0GS722GV8",
-      "share_text": "https://www.amazon.com/dp/B0GS722GV8",
-      "more_apps_url": "https://www.amazon.com/s?i=mobile-apps&rh=p_4%3Abestwallpapers&search-type=ss",
-      "privacy_url": "https://sites.google.com/view/privacypolicyain",
-      "show_remove_ads_button": true,
-      "show_premium_button": true
-    },
-    "iap": {
-      "enabled": true,
-      "lifetimeSku": "com.stitch.ohanabackground.remove_ads",
-      "subscriptionsEnabled": true,
-      "sub1mSku": "com.stitch.ohanabackground",
-      "sub3mSku": "sub3",
-      "sub6mSku": "com.stitch.ohanabackground",
-      "sub12mSku": "com.stitch.ohanabackground"
-    },
-   "ads": {
-  "showAds": true,
-  "appodealKey":"138724514789d7f3383835df544135a5b7c3cf7c24539fd9",
-  "clicksBeforeInterstitial": 3,
-  "autoShowIntervalSeconds": 45,
-  "banner": {
-    "enabled": true,
-    "size": "BANNER",
-    "position": "BOTTOM",
-    "autoLoad": true
+  "app_name": "Cute Blue Alien Live Wallpapers & AI Filter",
+  "theme_color": "#3F51B5",
+  "buttons": {
+    "rate_url": "https://play.google.com/store/apps/details?id=com.stitch.ohanabackground",
+    "share_text": "Check out amazing 4K Anime Wallpapers & AI Filters!",
+    "more_apps_url": "",
+    "privacy_url": "",
+    "show_remove_ads_button": true,
+    "show_premium_button": true,
+    "show_test_ads_button": false
   },
-    "levelplay": {
-    "enabled": false
+  "ads": {
+    "showAds": true,
+    "appodealKey": "138724514789d7f3383835df544135a5b7c3cf7c24539fd9",
+    "clicksBeforeInterstitial": 3,
+    "autoShowIntervalSeconds": 45,
+    "biddingEnabled": true,
+    "networks": {
+      "meta": true,
+      "yandex": true,
+      "unity_ads": true,
+      "vungle": true,
+      "mintegral": true,
+      "bigo_ads": true,
+      "chartboost": true,
+      "inmobi": true,
+      "verve": true,
+      "tradplus": true
+    },
+    "tradplus": {
+      "enabled": true,
+      "appId": "HOTA_APP_ID_DIAL_TRADPLUS_HNA"
+    },
+    "banner": {
+      "enabled": true,
+      "size": "BANNER",
+      "position": "BOTTOM",
+      "autoLoad": true
+    },
+    "interstitial": {
+      "enabled": true,
+      "autoCache": true
+    },
+    "rewarded": {
+      "enabled": true,
+      "autoCache": true
+    },
+    "mrec": {
+      "enabled": true,
+      "autoLoad": true
+    },
+    "native": {
+      "enabled": true,
+      "autoLoad": true
+    }
+  },
+  "iap": {
+    "enabled": true,
+    "lifetimeSku": "com.stitch.ohanabackground.remove_ads",
+    "subscriptionsEnabled": false,
+    "sub1mSku": "premium_1m",
+    "sub3mSku": "premium_3m",
+    "sub6mSku": "premium_6m",
+    "sub12mSku": "premium_12m"
   }
 },
     "trending": [
