@@ -58,11 +58,11 @@
   "iap": {
     "enabled": true,
     "lifetimeSku": "com.stitch.ohanabackground.remove_ads",
-    "subscriptionsEnabled": false,
-    "sub1mSku": "premium_1m",
-    "sub3mSku": "premium_3m",
-    "sub6mSku": "premium_6m",
-    "sub12mSku": "premium_12m"
+    "subscriptionsEnabled": true,
+    "sub1mSku": "com.stitch.ohanabackground",
+    "sub3mSku": "com.stitch.ohanabackground3",
+    "sub6mSku": "com.stitch.ohanabackground6",
+    "sub12mSku": "com.stitch.ohanabackground12"
   },
   "trending": [
     "vid_0003",
