@@ -57,7 +57,7 @@
   },
   "iap": {
     "enabled": true,
-    "lifetimeSku": "com.stitch.ohanabackground.remove_ads",
+    "lifetimeSku": "com.stitch.ohanabackground.remove_ads1",
     "subscriptionsEnabled": true,
     "sub1mSku": "com.stitch.ohanabackground",
     "sub3mSku": "com.stitch.ohanabackground3",
