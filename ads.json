@@ -55,14 +55,14 @@
       "autoLoad": true
     }
   },
-  "iap": {
+ "iap": {
     "enabled": true,
-    "lifetimeSku": "com.stitch.ohanabackground.remove_ads1",
+    "lifetimeSku": "com.stitch.ohanabackground.remove_ads",
     "subscriptionsEnabled": true,
-    "sub1mSku": "com.stitch.ohanabackground1",
-    "sub3mSku": "com.stitch.ohanabackground3",
-    "sub6mSku": "com.stitch.ohanabackground6",
-    "sub12mSku": "com.stitch.ohanabackground12"
+    "sub1mSku": "sub1mSku",
+    "sub3mSku": "3month",
+    "sub6mSku": "Premium6Months",
+    "sub12mSku": "sub12mSku"
   },
   "trending": [
     "vid_0003",
