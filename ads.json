@@ -1,27 +1,27 @@
 {
-  "app_name": "Cute Blue Alien Live Wallpapers & AI Filter",
+  "app_name":"Cute Blue Alien Live Wallpapers & AI Filter",
   "theme_color": "#3F51B5",
   "buttons": {
-    "rate_url": "https://play.google.com/store/apps/details?id=com.stitch.ohanabackground",
-    "share_text": "Check out amazing 4K Anime Wallpapers & AI Filters!",
-    "more_apps_url": "",
-    "privacy_url": "",
-    "show_remove_ads_button": true,
-    "show_premium_button": true,
-    "show_test_ads_button": false
+    "rate_url":"https://play.google.com/store/apps/details?id=com.stitch.ohanabackground",
+    "share_text":"Check out amazing 4K Anime Wallpapers & AI Filters!",
+    "more_apps_url":"",
+    "privacy_url":"",
+    "show_remove_ads_button":true,
+    "show_premium_button":true,
+    "show_test_ads_button":false
   },
   "ads": {
-    "showAds": true,
-    "appodealKey": "138724514789d7f3383835df544135a5b7c3cf7c24539fd9",
-    "clicksBeforeInterstitial": 3,
-    "autoShowIntervalSeconds": 45,
-    "biddingEnabled": true,
+    "showAds":true,
+    "appodealKey":"138724514789d7f3383835df544135a5b7c3cf7c24539fd9",
+    "clicksBeforeInterstitial":3,
+    "autoShowIntervalSeconds":45,
+    "biddingEnabled":true,
     "networks": {
       "meta": true,
       "yandex": true,
-      "unity_ads": true,
+      "unity_ads":true,
       "vungle": true,
-      "mintegral": true,
+      "mintegral":true,
       "bigo_ads": true,
       "chartboost": true,
       "inmobi": true,
@@ -33,36 +33,36 @@
       "appId": "HOTA_APP_ID_DIAL_TRADPLUS_HNA"
     },
     "banner": {
-      "enabled": true,
-      "size": "BANNER",
-      "position": "BOTTOM",
-      "autoLoad": true
+      "enabled":true,
+      "size":"BANNER",
+      "position":"BOTTOM",
+      "autoLoad":true
     },
     "interstitial": {
-      "enabled": true,
-      "autoCache": true
+      "enabled":true,
+      "autoCache":true
     },
     "rewarded": {
-      "enabled": true,
-      "autoCache": true
+      "enabled":true,
+      "autoCache":true
     },
     "mrec": {
-      "enabled": true,
-      "autoLoad": true
+      "enabled":true,
+      "autoLoad":true
     },
     "native": {
-      "enabled": true,
-      "autoLoad": true
+      "enabled":true,
+      "autoLoad":true
     }
   },
  "iap": {
-    "enabled": true,
-    "lifetimeSku": "com.stitch.ohanabackground.remove_ads",
-    "subscriptionsEnabled": true,
-    "sub1mSku": "sub1mSku",
-    "sub3mSku": "3month",
-    "sub6mSku": "Premium6Months",
-    "sub12mSku": "sub12mSku"
+    "enabled":true,
+    "lifetimeSku":"com.stitch.ohanabackground.remove_ads",
+    "subscriptionsEnabled":true,
+    "sub1mSku":"sub1mSku",
+    "sub3mSku":"3month",
+    "sub6mSku":"Premium6Months",
+    "sub12mSku":"sub12mSku"
   },
   "trending": [
     "vid_0003",
